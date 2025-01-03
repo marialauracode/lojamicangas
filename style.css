@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.container1{
+    background-color: blue;
+    height: 28px;
+}
+
+.logos{
+    background-color: yellow;
+    height: 28px;
+    width: 6.9%;
+}
+
+.insta-logo{
+    width: 15px;
+    height: 15px;
+}
